@@ -1,0 +1,13 @@
+Prevention Checklist:
+* Use strong and unique passwords for all your online accounts 
+* Never share OTP, UPI PIN, CVV or bank details with anyone 
+* Do not click on unknown links or suspicious messages 
+* Always verify payment requests before sending money 
+* Enable two-factor authentication (2FA) for important apps 
+* Download apps only from trusted sources like Play Store or App Store 
+* Avoid using public Wi-Fi for financial transactions 
+* Regularly check bank statements and transaction alerts 
+* Never approve collect requests from unknown persons 
+* Do not scan random QR codes to receive money 
+* Report online at National Cyber Crime Portal: cybercrime.gov.in 
+* Call Cyber Crime Helpline: ?? 1930
